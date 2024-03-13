@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p><em>Your Containerized PHP Application</em> is now running on your Red Hat OpenShift Service on AWS</p>
+        <p><em>Your PHP Application</em> is now running on your Red Hat OpenShift Service on AWS</p>
         <p>You are running PHP version <?= phpversion() ?></p>
 	<p>This is v1 of the app</p>
     </section>
